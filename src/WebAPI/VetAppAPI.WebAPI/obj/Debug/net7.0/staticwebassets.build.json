@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g+NAxuoGG3p49yfLdYQabbXGnKCNweq8Qyj5fo303JY=",
+  "Source": "VetAppAPI.WebAPI",
+  "BasePath": "_content/VetAppAPI.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

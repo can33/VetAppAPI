@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VetAppAPI.WebAPI.props" />
+</Project>
